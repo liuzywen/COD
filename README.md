@@ -16,7 +16,9 @@ The paper has been accepted by ICPR 2022.
 提取码：xc84 
 
 
-
+## Parameters
+链接：https://pan.baidu.com/s/1NHV0eYQ_waB9Epj_3u3FyQ 
+提取码：rlcw 
 
 
 ## Code
