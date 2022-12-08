@@ -31,3 +31,13 @@ The paper has been accepted by ICPR 2022.
 ## Result Map
 链接：https://pan.baidu.com/s/15RP5Kynt4utg9jfWkDNGuw 
 提取码：db3v 
+
+## 
+@inproceedings{liu2022boosting,
+  title={Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer},
+  author={Liu, Zhengyi and Zhang, Zhili and Tan, Yacheng and Wu, Wei},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)},
+  pages={140--146},
+  year={2022},
+  organization={IEEE}
+}
